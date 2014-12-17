@@ -1,0 +1,5 @@
+c:\users\radmation\documents\visual studio 2012\Projects\TestZipServices\TestZipServices\bin\TestZipServices.dll
+c:\users\radmation\documents\visual studio 2012\Projects\TestZipServices\TestZipServices\bin\TestZipServices.pdb
+c:\users\radmation\documents\visual studio 2012\Projects\TestZipServices\TestZipServices\obj\Debug\TestZipServices.csprojResolveAssemblyReference.cache
+c:\users\radmation\documents\visual studio 2012\Projects\TestZipServices\TestZipServices\obj\Debug\TestZipServices.dll
+c:\users\radmation\documents\visual studio 2012\Projects\TestZipServices\TestZipServices\obj\Debug\TestZipServices.pdb
